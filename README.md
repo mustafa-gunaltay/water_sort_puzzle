@@ -1,4 +1,4 @@
-How To Play Water-Sort-Puzzle ?
+#How To Play Water-Sort-Puzzle ?
 
 1)You can only pour the water if it is linked to the same colour
 
